@@ -16,3 +16,6 @@ What I learned while doing this project:
 4. Creating and Managing RDS MySQL.
 5. Security groups for communication with the services.
 Lastly, I am attaching some screenshots you can go to the capstone project.docx and download it in the repo.
+
+
+
