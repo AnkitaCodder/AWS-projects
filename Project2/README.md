@@ -58,7 +58,7 @@ This approach improves **privacy, security, and reliable message delivery**.
 ---
 
 ## Documentation
-Detailed explanation and screenshots can be added as a PDF file here if required.[View Project](./Project2/Capstoneproject2.pdf)
+Detailed explanation and screenshots can be added as a PDF file here if required.[View Project](./Capstoneproject2.pdf)
 
 ---
 
