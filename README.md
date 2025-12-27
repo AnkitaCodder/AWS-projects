@@ -46,7 +46,7 @@ To ensure high availability, I configured an **Auto Scaling Group** with a minim
 ## Documentation & Screenshots
 I have added detailed steps and screenshots of this project in a **PDF file**.
 
-📄 **[View Capstone Project Documentation](./capstone project.pdf)**
+📄 **[View Capstone Project Documentation](./Capstoneproject.pdf)**
 
 
 ---
